@@ -83,7 +83,7 @@ else
   LIBS   := -lntv2$(LIB_SUFFIX)
 endif
 
-LIBS_DEP := $(LIB_DIR)/libntv2$(LIB_SUFFIX).$(LIB_D_EXT)
+LIBS_DEP := $(LIB_DIR)/libntv2$(LIB_SUFFIX).$(LIB_EXT)
 
 # ------------------------------------------------------------------------
 # build targets
